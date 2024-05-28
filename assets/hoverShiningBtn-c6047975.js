@@ -1,1 +1,0 @@
-import{_ as t,f as o,g as s,p as n,n as _,h as c}from"./index-ddcfb16c.js";const a={name:"hoverShiningBtn"},p=e=>(n("data-v-2e30f829"),e=e(),_(),e),r={class:"c"},i=p(()=>c("button",{class:"btn btn-primary btn-ghost btn-shine"}," hover me ",-1)),d=[i];function h(e,f,v,l,u,m){return o(),s("div",r,d)}const B=t(a,[["render",h],["__scopeId","data-v-2e30f829"]]);export{B as default};
